@@ -11,6 +11,7 @@ import UIKit
 class ViewController: UIViewController
 {
     var kito: String = "87"
+    var nan: String = "87"
 
     override func viewDidLoad() {
         super.viewDidLoad()
