@@ -11,7 +11,7 @@ import UIKit
 class ViewController: UIViewController
 {
     var kito: String = "87"
-
+    var ooo:String = "OK"
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
